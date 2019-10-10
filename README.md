@@ -1,4 +1,4 @@
-# ESP8266-DHT-Monitoring-through-ThinkSpeak
+# ArduinoESP8266-DHT-Monitoring-through-ThinkSpeak
 Set-up to stream live data feed to cloud using IoT for Real Time Monitoring System.
 
 ThingSpeak™ is an IoT analytics platform service that allows you to aggregate, visualize and analyze live data streams in the cloud. ThingSpeak provides instant visualizations of data posted by your devices to ThingSpeak. With the ability to execute MATLAB® code in ThingSpeak you can perform online analysis and processing of the data as it comes in. ThingSpeak is often used for prototyping and proof of concept IoT systems that require analytics.
